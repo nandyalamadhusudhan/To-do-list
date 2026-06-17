@@ -17,9 +17,6 @@ A simple and responsive To-Do List application built using HTML, CSS, and JavaSc
 * JavaScript (ES6)
 * Local Storage API
 
-## 📸 Screenshot
-
-Add a screenshot of your project here.
 
 ## 📂 Project Structure
 
